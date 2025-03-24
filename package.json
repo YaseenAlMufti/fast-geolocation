@@ -1,6 +1,6 @@
 {
   "name": "@yaseenalmufti/fast-geolocation",
-  "version": "1.0.2",   
+  "version": "1.0.3",   
   "description": "This Plugin will return the latitude, longitude, city, state, and country in a fast manner to be used for simple location services",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -13,7 +13,7 @@
     "ios/Sources",
     "ios/Tests",
     "Package.swift",
-    "FastGeolocation.podspec"
+    "YaseenalmuftiFastGeolocation.podspec"
   ],
   "author": "Yaseen Al Mufti",
   "license": "MIT",
