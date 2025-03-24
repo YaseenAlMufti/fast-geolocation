@@ -37,7 +37,7 @@ npx cap sync
 ## 📚 Usage
 
 ```ts
-import FastGeolocation from '@yaseenalmufti/fast-geolocation';
+import { FastGeolocation } from '@yaseenalmufti/fast-geolocation';
 
 const getLocation = async () => {
   try {
